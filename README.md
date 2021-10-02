@@ -1,6 +1,5 @@
 ### Hi there, I'm Gaurav Pandey 👋
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=pandeygaurav4.README" alt="Pandeygaurav4" /> </p>
 
 <a href="https://twitter.com/grvpandey11">
   <img align="left" alt="Gaurav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,6 +18,3 @@
 <br>
 <br>
 
-<a href="https://github.com/pandeygaurav4">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeygaurav4&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
